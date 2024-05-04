@@ -1,10 +1,9 @@
-<h1 align="center">
+
   <br>
   <a href="https://docs.ipfs.tech/how-to/command-line-quick-start/"><img src="https://user-images.githubusercontent.com/157609/250148884-d6d12db8-fdcf-4be3-8546-2550b69845d8.png" alt="Kubo logo" title="Kubo logo" width="200"></a>
   <br>
   Kubo: IPFS Implementation in GO
   <br>
-</h1>
 
 <p align="center" style="font-size: 1.2rem;">The first implementation of IPFS.</p>
 
@@ -40,7 +39,7 @@ See [List](https://docs.ipfs.tech/basics/ipfs-implementations/)
 
 IPFS is a global, versioned, peer-to-peer filesystem. It combines good ideas from previous systems such as Git, BitTorrent, Kademlia, SFS, and the Web. It is like a single BitTorrent swarm, exchanging git objects. IPFS provides an interface as simple as the HTTP web, but with permanence built-in. You can also mount the world at /ipfs.
 
-For more info see: https://docs.ipfs.tech/concepts/what-is-ipfs/
+For more info see:[ https://docs.ipfs.tech/concepts/what-is-ipfs/]()
 
 Before opening an issue, consider using one of the following locations to ensure you are opening your thread in the right place:
   - kubo (previously named go-ipfs) _implementation_ bugs in [this repo](https://github.com/ipfs/kubo/issues).
@@ -206,7 +205,7 @@ $ ipfs get /ipns/dist.ipfs.tech/kubo/$VERSION/kubo_$VERSION_windows-amd64.zip   
 
 #### Arch Linux
 
-[![kubo via Community Repo](https://img.shields.io/archlinux/v/community/x86_64/kubo?color=1793d1&label=kubo&logo=arch-linux&style=flat-square&cacheSeconds=3600)](https://wiki.archlinux.org/title/IPFS)
+[![kubo via Community Repo](https://img.shields.io/archlinux/v/community/x86_64/kubo?color=1793d1&amp;label=kubo&amp;logo=arch-linux&amp;style=flat-square&amp;cacheSeconds=3600)](https://wiki.archlinux.org/title/IPFS)
 
 ```bash
 # pacman -S kubo
